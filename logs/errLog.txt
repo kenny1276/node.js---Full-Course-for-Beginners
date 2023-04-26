@@ -1,0 +1,18 @@
+$(dateTime)	c894616d-63a4-4db8-b6c5-00042445ad5f	TypeError	fsPromises.readFil is not a function
+$(dateTime)	3d90251c-8243-40bd-bbc0-c71f95649d6d	Error: Not allowed by CORS
+20230414	16:10:48	5de7c527-d2c8-4066-a585-fc30d3715103	Error: Not allowed by CORS
+20230414	16:11:15	0c47e4ac-e9f3-40af-99a1-67ffab42ae87	Error: Not allowed by CORS
+20230414	16:11:16	46272e1c-d290-4fbe-8c4d-9ff98cd23277	Error: Not allowed by CORS
+20230416	13:39:09	21d3e976-3b9b-441f-a78d-ba0c973721db	Error: ENOENT: no such file or directory, stat 'C:\Users\JurijVodusek\Documents\programiranje\node 3\views\subdir\test.html'
+20230416	13:39:13	db89ae13-1f68-4e7b-bee9-518325b3df4d	Error: ENOENT: no such file or directory, stat 'C:\Users\JurijVodusek\Documents\programiranje\node 3\views\subdir\test.html'
+20230416	17:51:30	55485de1-de39-4820-b849-ffe868623b28	TypeError: data is not iterable
+20230416	17:55:06	721c010e-e2ae-460d-b38a-c8f72d714977	TypeError: data is not iterable
+20230416	17:58:34	f93948f6-b37d-4a4d-93fd-151eac015806	SyntaxError: Unexpected token f in JSON at position 1
+20230416	17:59:21	ce573b85-55bc-4f8f-a15a-1513679390fa	SyntaxError: Unexpected token f in JSON at position 1
+20230416	17:59:31	bdb8c26f-c132-49c7-b235-abcfc9910de0	SyntaxError: Unexpected token ; in JSON at position 40
+20230416	18:00:18	c2709855-4c0e-4686-b7c9-54d3c69fad00	ReferenceError: emp is not defined
+20230425	18:41:51	9cd7dac2-a9fa-4226-ba5a-57ddb3dd9f33	TypeError: authHeader?.startWith is not a function
+20230425	18:43:24	ba83d298-ada9-4e65-9eef-71995f3aa97f	TypeError: authHeader?.startWith is not a function
+20230425	18:43:31	2906c1de-c41c-4fb7-9bc9-9a9dd6b2a7ad	TypeError: authHeader?.startWith is not a function
+20230425	18:43:43	8f42e931-84f0-4282-afad-e91b9618b993	TypeError: authHeader?.startWith is not a function
+20230425	18:43:48	53421a60-8d44-4087-bacb-70c702d0c798	TypeError: authHeader?.startWith is not a function
